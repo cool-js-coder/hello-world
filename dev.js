@@ -4,8 +4,9 @@
 
 // this is the code of dev branch
 
-<<<<<<< HEAD
+
+//child2 commit
 //sub branch change
-=======
+
 //a sub branch of sub brach
->>>>>>> sub_sub_dev
+
